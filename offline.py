@@ -1,2 +1,3 @@
 import os
-os.system('git pull && import MURSHAD')
+os.system('git pull')
+import MURSHAD
